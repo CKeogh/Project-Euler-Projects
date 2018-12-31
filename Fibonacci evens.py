@@ -20,3 +20,5 @@ def fibonacci(n):
 user_input = input("This programme takes a number and returns \n the sum of every even term in the fibonacci sequence up to that number. \n Please enter a number:")
 answer = fibonacci(int(user_input))
 print("Answer: %d" % (answer))
+
+# THIS IS ALSO A COMMENT
